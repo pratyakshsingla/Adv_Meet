@@ -2,7 +2,7 @@
 # Advance Meet
 the required shot and make notes by themselves
 
-Our Idea is to develop a model to create a one-stop solution to encounter all these problems and make teacher's life a bit easier by doing all the redundant tasks for them to let them focus on the important teaching stuff...
+Our Idea is to develop a model to create a one-stop solution to encounter all these problems and make speaker's life a bit easier by doing all the redundant and unncessary tasks for them to let them focus on the important stuff...
 Our Project constitutes of 3 different modules - 
 
 - Create a camera holder which automatically rotates by detecting the teacher's face in order to keep the teacher in the frame to avoid multiple camera adjustment 
